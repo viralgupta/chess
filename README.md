@@ -1,5 +1,3 @@
-#Chess Website Build From Sratch Using Socket.io in React
+Chess Website where you can search people, accept/reject requests to play, Made using Socket.io
 
-Website uses chess.js npm in backend to validate moves and create a PGN which is then sent to frontend to update the board
-
-Backend creates personal room for each game and the user can choose to recieve challenges and choose not to
+![chess](https://github.com/viralgupta/chess/assets/119971154/022c5529-9672-470e-9b8b-00e1d706091d)
